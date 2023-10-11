@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Password Generator</string>
+    <string name="onboard_title">Agora a criação de senhas fortes e exclusivas tornou-se simples e conveniente, graças a este aplicativo</string>
+    <string name="start">começar</string>
+    <string name="password">Senha</string>
+    <string name="pin_code">Código PIN</string>
+    <string name="characters">\" personagens\"</string>
+    <string name="copy_code">Copiar código</string>
+    <string name="generate_a_pin_code">Gerar um código PIN</string>
+    <string name="letters">as cartas</string>
+    <string name="numbers">números</string>
+    <string name="symbols">símbolos</string>
+    <string name="cap_letters">letras maiúsculas</string>
+    <string name="generate_a_password">Gerar uma senha</string>
+    <string name="pin">Gerador de código PIN</string>
+    <string name="pass">Gerador de senhas</string>
+</resources>

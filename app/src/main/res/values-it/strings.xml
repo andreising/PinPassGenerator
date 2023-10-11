@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Password Generator</string>
+    <string name="onboard_title">Ora la creazione di password forti e uniche è diventata semplice e conveniente, grazie a questa applicazione</string>
+    <string name="start">inizio</string>
+    <string name="password">Parola d\'ordine</string>
+    <string name="pin_code">Codice PIN</string>
+    <string name="characters">\" caratteri\"</string>
+    <string name="copy_code">Copia codice</string>
+    <string name="generate_a_pin_code">Genera un codice PIN</string>
+    <string name="letters">le lettere</string>
+    <string name="numbers">numeri</string>
+    <string name="symbols">simboli</string>
+    <string name="cap_letters">lettere maiuscole</string>
+    <string name="generate_a_password">Genera una password</string>
+    <string name="pin">Generatore di codici PIN</string>
+    <string name="pass">Generatore di password</string>
+</resources>

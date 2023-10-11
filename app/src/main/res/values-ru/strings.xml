@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Password Generator</string>
+    <string name="onboard_title">Теперь создание надежных и уникальных паролей стало простым и удобным благодаря этому приложению.</string>
+    <string name="start">начинать</string>
+    <string name="password">Пароль</string>
+    <string name="pin_code">Пин-код</string>
+    <string name="characters">\" персонажи\"</string>
+    <string name="copy_code">Копировать код</string>
+    <string name="generate_a_pin_code">Создать пин-код</string>
+    <string name="letters">письма</string>
+    <string name="numbers">цифры</string>
+    <string name="symbols">символы</string>
+    <string name="cap_letters">заглавные буквы</string>
+    <string name="generate_a_password">Создать пароль</string>
+    <string name="pin">Генератор пин-кода</string>
+    <string name="pass">Генератор паролей</string>
+</resources>

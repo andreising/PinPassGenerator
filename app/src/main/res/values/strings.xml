@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Password Generator</string>
+    <string name="onboard_title">Now the creation of strong and unique passwords has become simple and convenient, thanks to this application</string>
+    <string name="start">start</string>
+    <string name="password">Password</string>
+    <string name="pin_code">Pin Code</string>
+    <string name="characters">" characters"</string>
+    <string name="copy_code">Copy Code</string>
+    <string name="generate_a_pin_code">Generate a Pin Code</string>
+    <string name="letters">the letters</string>
+    <string name="numbers">numbers</string>
+    <string name="symbols">symbols</string>
+    <string name="cap_letters">capital letters</string>
+    <string name="generate_a_password">Generate a Password</string>
+    <string name="pin">Pin Code Generator</string>
+    <string name="pass">Password Generator</string>
+</resources>

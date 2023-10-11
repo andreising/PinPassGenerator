@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Password Generator</string>
+    <string name="onboard_title">Bu uygulama sayesinde artık güçlü ve benzersiz şifreler oluşturmak basit ve kullanışlı hale geldi</string>
+    <string name="start">başlangıç</string>
+    <string name="password">Şifre</string>
+    <string name="pin_code">Pin Kodu</string>
+    <string name="characters">\"karakterler\"</string>
+    <string name="copy_code">Kodu Kopyala</string>
+    <string name="generate_a_pin_code">Pin Kodu Oluşturun</string>
+    <string name="letters">harfler</string>
+    <string name="numbers">sayılar</string>
+    <string name="symbols">semboller</string>
+    <string name="cap_letters">büyük harfler</string>
+    <string name="generate_a_password">Şifre Oluştur</string>
+    <string name="pin">Pin Kodu Oluşturucu</string>
+    <string name="pass">Şifre Oluşturucu</string>
+</resources>
